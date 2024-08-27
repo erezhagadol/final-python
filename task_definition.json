@@ -1,5 +1,5 @@
 {
-    "family": "final-python-erez-td",
+    "family": "final-python-erez-task",
     "containerDefinitions": [
         {
             "name": "final-python",
